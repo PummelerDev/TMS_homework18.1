@@ -1,5 +1,7 @@
-<?xml version="1.0"?>
-<writing type="Shakesparean">
+<?xml version="1.0" encoding="UTF-8" ?>
+<writing type="Shakesparean"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:noNamespaceSchemaLocation="doc.xsd">
 	<author>
 		<lastName>Shakspare</lastName>
 		<firstName>William</firstName>
