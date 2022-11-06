@@ -11,7 +11,9 @@ public class Writing {
     private  Lines lines;
 
     public Writing() {
-
+        this.author= new Author();
+        this.lines = new Lines();
+        this.title="";
     }
 
     public Writing(Author author, String title, Lines lines) {

@@ -5,8 +5,8 @@ import javax.xml.parsers.ParserConfigurationException;
 
 public class Main {
 
-//	Path: \forXML
+//	Path: forXML\
 	public static void main(String[] args) throws JAXBException, ParserConfigurationException, SAXException {
-		FileCreator.create();
+		XMLParser.start();
 	}
 }
